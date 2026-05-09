@@ -1,0 +1,5 @@
+{
+  "name": "Explainable AI: Neural-Symbolic Reasoning",
+  "description": "Upload a CSV file to analyze your data. This tool uses a simulated Neural-Symbolic model to provide a summary, key insights, and an explainable, step-by-step reasoning process for its conclusions.",
+  "requestFramePermissions": []
+}
